@@ -1,2 +1,2 @@
-# Curso-Dise-o-y-Programaci-n-Web
+# Curso-Programacion-Web
 Repositorio Individual
