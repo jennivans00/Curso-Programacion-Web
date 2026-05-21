@@ -1,2 +1,2 @@
-# Curso-Ind-Programacion-Web
+# Curso-Programacion-Web
 Repositorio Individual
